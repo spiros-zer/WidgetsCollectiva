@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WidgetsCollectiva.cpp.obj": [
+			"ExtendedCommonActivatableWidget.gen.cpp.obj",
+			"ModularActionWidget.gen.cpp.obj",
+			"ModularButton.gen.cpp.obj",
+			"WidgetsCollectiva.init.gen.cpp.obj",
+			"ExtendedCommonActivatableWidget.cpp.obj",
+			"ModularActionWidget.cpp.obj",
+			"ModularButton.cpp.obj",
+			"WidgetsCollectivaModule.cpp.obj"
+		]
+	}
+}
